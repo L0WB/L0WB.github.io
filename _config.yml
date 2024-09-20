@@ -1,0 +1,14 @@
+title: My Awesome Blog
+email: devluqun@gmail.com
+description: >- # 这是你博客的简短描述
+  This is my awesome blog where I write about my projects and thoughts.
+baseurl: "" # 留空或设置为项目的子路径（对于项目站点）
+url: "https://L0WB.github.io" # 你的网站URL
+twitter_username: 
+github_username: L0WB  
+
+# 构建设置
+theme: minima
+plugins:
+  - jekyll-feed
+
